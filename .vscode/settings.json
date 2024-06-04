@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.disable": [
+        "missing-return",
+        "undefined-global",
+        "param-type-mismatch"
+    ],
+    "Lua.diagnostics.globals": [
+        "a",
+        "b",
+        "c"
+    ]
+}
